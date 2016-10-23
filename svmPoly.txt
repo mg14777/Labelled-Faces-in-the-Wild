@@ -1,0 +1,1536 @@
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 1.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 1.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 1.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 1.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 1.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 1.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 1.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 1.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 10.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 10.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 10.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 10.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 10.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 10.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 10.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 10.0
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.1
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.1
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.1
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.1
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.1
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.1
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.1
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.1
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.01
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.01
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.01
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.01
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.01
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.01
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.01
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.01
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.001
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.001
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.001
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.001
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.001
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.001
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.001
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.001
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.0001
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.0001
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.0001
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.0001
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.0001
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.0001
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.0001
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 0.0001
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 1e-05
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 1e-05
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 1e-05
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 1e-05
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 1e-05
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 1e-05
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 1e-05
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 0 coef= 1e-05
+OVO model t1score: 0.234215934617
+OVO model t1 score: 0.234215934617
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.0
+OVO model t1score: 0.791338047282
+OVO model t1 score: 0.791338047282
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.0
+OVO model t1score: 0.788284739187
+OVO model t1 score: 0.788284739187
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.0
+OVO model t1score: 0.788228059085
+OVO model t1 score: 0.788228059085
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.0
+OVO model t1score: 0.791048792236
+OVO model t1 score: 0.791048792236
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.0
+OVO model t1score: 0.794053038808
+OVO model t1 score: 0.794053038808
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.0
+OVO model t1score: 0.797972717607
+OVO model t1 score: 0.797972717607
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.0
+OVO model t1score: 0.731627047431
+OVO model t1 score: 0.731627047431
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.0
+OVO model t1score: 0.697274288497
+OVO model t1 score: 0.697274288497
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 1.0
+OVO model t1score: 0.791338047282
+OVO model t1 score: 0.791338047282
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 1.0
+OVO model t1score: 0.792178658705
+OVO model t1 score: 0.792178658705
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 1.0
+OVO model t1score: 0.787487686331
+OVO model t1 score: 0.787487686331
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 1.0
+OVO model t1score: 0.798930662429
+OVO model t1 score: 0.798930662429
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 1.0
+OVO model t1score: 0.78909641464
+OVO model t1 score: 0.78909641464
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 1.0
+OVO model t1score: 0.783414120373
+OVO model t1 score: 0.783414120373
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 1.0
+OVO model t1score: 0.746108079561
+OVO model t1 score: 0.746108079561
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 1.0
+OVO model t1score: 0.709437618881
+OVO model t1 score: 0.709437618881
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 10.0
+OVO model t1score: 0.791338047282
+OVO model t1 score: 0.791338047282
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 10.0
+OVO model t1score: 0.788228059085
+OVO model t1 score: 0.788228059085
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 10.0
+OVO model t1score: 0.78804727019
+OVO model t1 score: 0.78804727019
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 10.0
+OVO model t1score: 0.791037136166
+OVO model t1 score: 0.791037136166
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 10.0
+OVO model t1score: 0.785881605151
+OVO model t1 score: 0.785881605151
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 10.0
+OVO model t1score: 0.782563860524
+OVO model t1 score: 0.782563860524
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 10.0
+OVO model t1score: 0.747793098396
+OVO model t1 score: 0.747793098396
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 10.0
+OVO model t1score: 0.697626564246
+OVO model t1 score: 0.697626564246
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.1
+OVO model t1score: 0.791338047282
+OVO model t1 score: 0.791338047282
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.1
+OVO model t1score: 0.792040556762
+OVO model t1 score: 0.792040556762
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.1
+OVO model t1score: 0.787824947686
+OVO model t1 score: 0.787824947686
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.1
+OVO model t1score: 0.795101827353
+OVO model t1 score: 0.795101827353
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.1
+OVO model t1score: 0.797791628723
+OVO model t1 score: 0.797791628723
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.1
+OVO model t1score: 0.778396581719
+OVO model t1 score: 0.778396581719
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.1
+OVO model t1score: 0.743295583653
+OVO model t1 score: 0.743295583653
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.1
+OVO model t1score: 0.710832660383
+OVO model t1 score: 0.710832660383
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.01
+OVO model t1score: 0.791338047282
+OVO model t1 score: 0.791338047282
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.01
+OVO model t1score: 0.788038478043
+OVO model t1 score: 0.788038478043
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.01
+OVO model t1score: 0.791483514273
+OVO model t1 score: 0.791483514273
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.01
+OVO model t1score: 0.798876497449
+OVO model t1 score: 0.798876497449
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.01
+OVO model t1score: 0.786817990752
+OVO model t1 score: 0.786817990752
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.01
+OVO model t1score: 0.79534022004
+OVO model t1 score: 0.79534022004
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.01
+OVO model t1score: 0.738133404106
+OVO model t1 score: 0.738133404106
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.01
+OVO model t1score: 0.685375181813
+OVO model t1 score: 0.685375181813
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.001
+OVO model t1score: 0.791338047282
+OVO model t1 score: 0.791338047282
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.001
+OVO model t1score: 0.788038478043
+OVO model t1 score: 0.788038478043
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.001
+OVO model t1score: 0.791787619419
+OVO model t1 score: 0.791787619419
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.001
+OVO model t1score: 0.790746358141
+OVO model t1 score: 0.790746358141
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.001
+OVO model t1score: 0.782140579937
+OVO model t1 score: 0.782140579937
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.001
+OVO model t1score: 0.794768250112
+OVO model t1 score: 0.794768250112
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.001
+OVO model t1score: 0.728458821952
+OVO model t1 score: 0.728458821952
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.001
+OVO model t1score: 0.712684441667
+OVO model t1 score: 0.712684441667
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.0001
+OVO model t1score: 0.791338047282
+OVO model t1 score: 0.791338047282
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.0001
+OVO model t1score: 0.792115164037
+OVO model t1 score: 0.792115164037
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.0001
+OVO model t1score: 0.791665677932
+OVO model t1 score: 0.791665677932
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.0001
+OVO model t1score: 0.795101827353
+OVO model t1 score: 0.795101827353
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.0001
+OVO model t1score: 0.781935430751
+OVO model t1 score: 0.781935430751
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.0001
+OVO model t1score: 0.802226071358
+OVO model t1 score: 0.802226071358
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.0001
+OVO model t1score: 0.735298481816
+OVO model t1 score: 0.735298481816
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 0.0001
+OVO model t1score: 0.707257950016
+OVO model t1 score: 0.707257950016
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 1e-05
+OVO model t1score: 0.791338047282
+OVO model t1 score: 0.791338047282
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 1e-05
+OVO model t1score: 0.792327267123
+OVO model t1 score: 0.792327267123
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 1e-05
+OVO model t1score: 0.788413356872
+OVO model t1 score: 0.788413356872
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 1e-05
+OVO model t1score: 0.798930662429
+OVO model t1 score: 0.798930662429
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 1e-05
+OVO model t1score: 0.790132152062
+OVO model t1 score: 0.790132152062
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 1e-05
+OVO model t1score: 0.790437556362
+OVO model t1 score: 0.790437556362
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 1e-05
+OVO model t1score: 0.719782003733
+OVO model t1 score: 0.719782003733
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 1 coef= 1e-05
+OVO model t1score: 0.707477026123
+OVO model t1 score: 0.707477026123
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.0
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.0
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.0
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.0
+OVO model t1score: 0.614441176023
+OVO model t1 score: 0.614441176023
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.0
+OVO model t1score: 0.611551890733
+OVO model t1 score: 0.611551890733
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.0
+OVO model t1score: 0.620409413472
+OVO model t1 score: 0.620409413472
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.0
+OVO model t1score: 0.599965419224
+OVO model t1 score: 0.599965419224
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.0
+OVO model t1score: 0.547377237703
+OVO model t1 score: 0.547377237703
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 1.0
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 1.0
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 1.0
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 1.0
+OVO model t1score: 0.611208540519
+OVO model t1 score: 0.611208540519
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 1.0
+OVO model t1score: 0.611551890733
+OVO model t1 score: 0.611551890733
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 1.0
+OVO model t1score: 0.618818149386
+OVO model t1 score: 0.618818149386
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 1.0
+OVO model t1score: 0.604256698147
+OVO model t1 score: 0.604256698147
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 1.0
+OVO model t1score: 0.53713724588
+OVO model t1 score: 0.53713724588
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 10.0
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 10.0
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 10.0
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 10.0
+OVO model t1score: 0.611208540519
+OVO model t1 score: 0.611208540519
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 10.0
+OVO model t1score: 0.611714347459
+OVO model t1 score: 0.611714347459
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 10.0
+OVO model t1score: 0.608531438947
+OVO model t1 score: 0.608531438947
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 10.0
+OVO model t1score: 0.606413661035
+OVO model t1 score: 0.606413661035
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 10.0
+OVO model t1score: 0.543358567489
+OVO model t1 score: 0.543358567489
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.1
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.1
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.1
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.1
+OVO model t1score: 0.614441176023
+OVO model t1 score: 0.614441176023
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.1
+OVO model t1score: 0.611208540519
+OVO model t1 score: 0.611208540519
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.1
+OVO model t1score: 0.623398098205
+OVO model t1 score: 0.623398098205
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.1
+OVO model t1score: 0.605230990193
+OVO model t1 score: 0.605230990193
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.1
+OVO model t1score: 0.539363414795
+OVO model t1 score: 0.539363414795
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.01
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.01
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.01
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.01
+OVO model t1score: 0.611208540519
+OVO model t1 score: 0.611208540519
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.01
+OVO model t1score: 0.611551890733
+OVO model t1 score: 0.611551890733
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.01
+OVO model t1score: 0.617236015143
+OVO model t1 score: 0.617236015143
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.01
+OVO model t1score: 0.613540759758
+OVO model t1 score: 0.613540759758
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.01
+OVO model t1score: 0.534407304992
+OVO model t1 score: 0.534407304992
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.001
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.001
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.001
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.001
+OVO model t1score: 0.611208540519
+OVO model t1 score: 0.611208540519
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.001
+OVO model t1score: 0.611551890733
+OVO model t1 score: 0.611551890733
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.001
+OVO model t1score: 0.608459234965
+OVO model t1 score: 0.608459234965
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.001
+OVO model t1score: 0.611561579568
+OVO model t1 score: 0.611561579568
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.001
+OVO model t1score: 0.536730564536
+OVO model t1 score: 0.536730564536
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.0001
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.0001
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.0001
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.0001
+OVO model t1score: 0.611208540519
+OVO model t1 score: 0.611208540519
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.0001
+OVO model t1score: 0.611551890733
+OVO model t1 score: 0.611551890733
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.0001
+OVO model t1score: 0.61015507264
+OVO model t1 score: 0.61015507264
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.0001
+OVO model t1score: 0.600627778363
+OVO model t1 score: 0.600627778363
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 0.0001
+OVO model t1score: 0.552519170868
+OVO model t1 score: 0.552519170868
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 1e-05
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 1e-05
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 1e-05
+OVO model t1score: 0.604934065668
+OVO model t1 score: 0.604934065668
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 1e-05
+OVO model t1score: 0.614476799085
+OVO model t1 score: 0.614476799085
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 1e-05
+OVO model t1score: 0.61541090805
+OVO model t1 score: 0.61541090805
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 1e-05
+OVO model t1score: 0.618281847597
+OVO model t1 score: 0.618281847597
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 1e-05
+OVO model t1score: 0.616398183502
+OVO model t1 score: 0.616398183502
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 2 coef= 1e-05
+OVO model t1score: 0.550041778468
+OVO model t1 score: 0.550041778468
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.0
+OVO model t1score: 0.583501022299
+OVO model t1 score: 0.583501022299
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.0
+OVO model t1score: 0.584506556664
+OVO model t1 score: 0.584506556664
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.0
+OVO model t1score: 0.58812139
+OVO model t1 score: 0.58812139
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.0
+OVO model t1score: 0.599311664623
+OVO model t1 score: 0.599311664623
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.0
+OVO model t1score: 0.59550786783
+OVO model t1 score: 0.59550786783
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.0
+OVO model t1score: 0.598064456291
+OVO model t1 score: 0.598064456291
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.0
+OVO model t1score: 0.591094420916
+OVO model t1 score: 0.591094420916
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.0
+OVO model t1score: 0.593594867531
+OVO model t1 score: 0.593594867531
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 1.0
+OVO model t1score: 0.583501022299
+OVO model t1 score: 0.583501022299
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 1.0
+OVO model t1score: 0.584506556664
+OVO model t1 score: 0.584506556664
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 1.0
+OVO model t1score: 0.592779156737
+OVO model t1 score: 0.592779156737
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 1.0
+OVO model t1score: 0.599311664623
+OVO model t1 score: 0.599311664623
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 1.0
+OVO model t1score: 0.601011380711
+OVO model t1 score: 0.601011380711
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 1.0
+OVO model t1score: 0.60137838556
+OVO model t1 score: 0.60137838556
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 1.0
+OVO model t1score: 0.591094420916
+OVO model t1 score: 0.591094420916
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 1.0
+OVO model t1score: 0.600073430043
+OVO model t1 score: 0.600073430043
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 10.0
+OVO model t1score: 0.583501022299
+OVO model t1 score: 0.583501022299
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 10.0
+OVO model t1score: 0.584506556664
+OVO model t1 score: 0.584506556664
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 10.0
+OVO model t1score: 0.58812139
+OVO model t1 score: 0.58812139
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 10.0
+OVO model t1score: 0.599311664623
+OVO model t1 score: 0.599311664623
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 10.0
+OVO model t1score: 0.599978942885
+OVO model t1 score: 0.599978942885
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 10.0
+OVO model t1score: 0.593604070804
+OVO model t1 score: 0.593604070804
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 10.0
+OVO model t1score: 0.596238330847
+OVO model t1 score: 0.596238330847
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 10.0
+OVO model t1score: 0.599986971737
+OVO model t1 score: 0.599986971737
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.1
+OVO model t1score: 0.583501022299
+OVO model t1 score: 0.583501022299
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.1
+OVO model t1score: 0.584506556664
+OVO model t1 score: 0.584506556664
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.1
+OVO model t1score: 0.58812139
+OVO model t1 score: 0.58812139
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.1
+OVO model t1score: 0.599311664623
+OVO model t1 score: 0.599311664623
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.1
+OVO model t1score: 0.599978942885
+OVO model t1 score: 0.599978942885
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.1
+OVO model t1score: 0.598668462888
+OVO model t1 score: 0.598668462888
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.1
+OVO model t1score: 0.591607949892
+OVO model t1 score: 0.591607949892
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.1
+OVO model t1score: 0.60735829203
+OVO model t1 score: 0.60735829203
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.01
+OVO model t1score: 0.583501022299
+OVO model t1 score: 0.583501022299
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.01
+OVO model t1score: 0.584506556664
+OVO model t1 score: 0.584506556664
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.01
+OVO model t1score: 0.58812139
+OVO model t1 score: 0.58812139
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.01
+OVO model t1score: 0.599130121494
+OVO model t1 score: 0.599130121494
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.01
+OVO model t1score: 0.599978942885
+OVO model t1 score: 0.599978942885
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.01
+OVO model t1score: 0.601951325959
+OVO model t1 score: 0.601951325959
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.01
+OVO model t1score: 0.584835504245
+OVO model t1 score: 0.584835504245
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.01
+OVO model t1score: 0.604971569942
+OVO model t1 score: 0.604971569942
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.001
+OVO model t1score: 0.583501022299
+OVO model t1 score: 0.583501022299
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.001
+OVO model t1score: 0.584506556664
+OVO model t1 score: 0.584506556664
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.001
+OVO model t1score: 0.58812139
+OVO model t1 score: 0.58812139
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.001
+OVO model t1score: 0.599130121494
+OVO model t1 score: 0.599130121494
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.001
+OVO model t1score: 0.599978942885
+OVO model t1 score: 0.599978942885
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.001
+OVO model t1score: 0.601951325959
+OVO model t1 score: 0.601951325959
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.001
+OVO model t1score: 0.590310816427
+OVO model t1 score: 0.590310816427
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.001
+OVO model t1score: 0.596641106686
+OVO model t1 score: 0.596641106686
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.0001
+OVO model t1score: 0.583501022299
+OVO model t1 score: 0.583501022299
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.0001
+OVO model t1score: 0.584506556664
+OVO model t1 score: 0.584506556664
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.0001
+OVO model t1score: 0.58812139
+OVO model t1 score: 0.58812139
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.0001
+OVO model t1score: 0.599311664623
+OVO model t1 score: 0.599311664623
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.0001
+OVO model t1score: 0.603641972679
+OVO model t1 score: 0.603641972679
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.0001
+OVO model t1score: 0.592335299705
+OVO model t1 score: 0.592335299705
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.0001
+OVO model t1score: 0.591929098473
+OVO model t1 score: 0.591929098473
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 0.0001
+OVO model t1score: 0.607915941857
+OVO model t1 score: 0.607915941857
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 1e-05
+OVO model t1score: 0.583501022299
+OVO model t1 score: 0.583501022299
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 1e-05
+OVO model t1score: 0.584506556664
+OVO model t1 score: 0.584506556664
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 1e-05
+OVO model t1score: 0.58812139
+OVO model t1 score: 0.58812139
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 1e-05
+OVO model t1score: 0.599311664623
+OVO model t1 score: 0.599311664623
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 1e-05
+OVO model t1score: 0.599978942885
+OVO model t1 score: 0.599978942885
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 1e-05
+OVO model t1score: 0.596464397412
+OVO model t1 score: 0.596464397412
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 1e-05
+OVO model t1score: 0.591526531041
+OVO model t1 score: 0.591526531041
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 3 coef= 1e-05
+OVO model t1score: 0.607915941857
+OVO model t1 score: 0.607915941857
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.0
+OVO model t1score: 0.406563381973
+OVO model t1 score: 0.406563381973
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.0
+OVO model t1score: 0.40666818328
+OVO model t1 score: 0.40666818328
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.0
+OVO model t1score: 0.40708136352
+OVO model t1 score: 0.40708136352
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.0
+OVO model t1score: 0.412987924291
+OVO model t1 score: 0.412987924291
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.0
+OVO model t1score: 0.435640419783
+OVO model t1 score: 0.435640419783
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.0
+OVO model t1score: 0.4325609204
+OVO model t1 score: 0.4325609204
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.0
+OVO model t1score: 0.42232536058
+OVO model t1 score: 0.42232536058
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.0
+OVO model t1score: 0.400449074688
+OVO model t1 score: 0.400449074688
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 1.0
+OVO model t1score: 0.406563381973
+OVO model t1 score: 0.406563381973
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 1.0
+OVO model t1score: 0.40708136352
+OVO model t1 score: 0.40708136352
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 1.0
+OVO model t1score: 0.407515495166
+OVO model t1 score: 0.407515495166
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 1.0
+OVO model t1score: 0.412475043729
+OVO model t1 score: 0.412475043729
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 1.0
+OVO model t1score: 0.432604924024
+OVO model t1 score: 0.432604924024
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 1.0
+OVO model t1score: 0.439502741287
+OVO model t1 score: 0.439502741287
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 1.0
+OVO model t1score: 0.429401491759
+OVO model t1 score: 0.429401491759
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 1.0
+OVO model t1score: 0.398926257872
+OVO model t1 score: 0.398926257872
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 10.0
+OVO model t1score: 0.406563381973
+OVO model t1 score: 0.406563381973
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 10.0
+OVO model t1score: 0.40666818328
+OVO model t1 score: 0.40666818328
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 10.0
+OVO model t1score: 0.40708136352
+OVO model t1 score: 0.40708136352
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 10.0
+OVO model t1score: 0.418741482209
+OVO model t1 score: 0.418741482209
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 10.0
+OVO model t1score: 0.436322632065
+OVO model t1 score: 0.436322632065
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 10.0
+OVO model t1score: 0.436182040094
+OVO model t1 score: 0.436182040094
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 10.0
+OVO model t1score: 0.428708473784
+OVO model t1 score: 0.428708473784
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 10.0
+OVO model t1score: 0.400449074688
+OVO model t1 score: 0.400449074688
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.1
+OVO model t1score: 0.406563381973
+OVO model t1 score: 0.406563381973
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.1
+OVO model t1score: 0.40666818328
+OVO model t1 score: 0.40666818328
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.1
+OVO model t1score: 0.407515495166
+OVO model t1 score: 0.407515495166
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.1
+OVO model t1score: 0.412987924291
+OVO model t1 score: 0.412987924291
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.1
+OVO model t1score: 0.43378658072
+OVO model t1 score: 0.43378658072
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.1
+OVO model t1score: 0.435136481573
+OVO model t1 score: 0.435136481573
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.1
+OVO model t1score: 0.42489754461
+OVO model t1 score: 0.42489754461
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.1
+OVO model t1score: 0.395551909032
+OVO model t1 score: 0.395551909032
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.01
+OVO model t1score: 0.406563381973
+OVO model t1 score: 0.406563381973
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.01
+OVO model t1score: 0.40666818328
+OVO model t1 score: 0.40666818328
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.01
+OVO model t1score: 0.40708136352
+OVO model t1 score: 0.40708136352
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.01
+OVO model t1score: 0.418741482209
+OVO model t1 score: 0.418741482209
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.01
+OVO model t1score: 0.435582527324
+OVO model t1 score: 0.435582527324
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.01
+OVO model t1score: 0.436182040094
+OVO model t1 score: 0.436182040094
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.01
+OVO model t1score: 0.432953228349
+OVO model t1 score: 0.432953228349
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.01
+OVO model t1score: 0.394920404258
+OVO model t1 score: 0.394920404258
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.001
+OVO model t1score: 0.406563381973
+OVO model t1 score: 0.406563381973
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.001
+OVO model t1score: 0.40666818328
+OVO model t1 score: 0.40666818328
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.001
+OVO model t1score: 0.407515495166
+OVO model t1 score: 0.407515495166
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.001
+OVO model t1score: 0.412987924291
+OVO model t1 score: 0.412987924291
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.001
+OVO model t1score: 0.436426835478
+OVO model t1 score: 0.436426835478
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.001
+OVO model t1score: 0.438331593697
+OVO model t1 score: 0.438331593697
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.001
+OVO model t1score: 0.429859987726
+OVO model t1 score: 0.429859987726
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.001
+OVO model t1score: 0.396508125405
+OVO model t1 score: 0.396508125405
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.0001
+OVO model t1score: 0.406563381973
+OVO model t1 score: 0.406563381973
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.0001
+OVO model t1score: 0.40666818328
+OVO model t1 score: 0.40666818328
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.0001
+OVO model t1score: 0.40708136352
+OVO model t1 score: 0.40708136352
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.0001
+OVO model t1score: 0.412987924291
+OVO model t1 score: 0.412987924291
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.0001
+OVO model t1score: 0.439179116793
+OVO model t1 score: 0.439179116793
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.0001
+OVO model t1score: 0.43104271335
+OVO model t1 score: 0.43104271335
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.0001
+OVO model t1score: 0.42713414947
+OVO model t1 score: 0.42713414947
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 0.0001
+OVO model t1score: 0.395835335627
+OVO model t1 score: 0.395835335627
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 1e-05
+OVO model t1score: 0.406563381973
+OVO model t1 score: 0.406563381973
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 1e-05
+OVO model t1score: 0.40666818328
+OVO model t1 score: 0.40666818328
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 1e-05
+OVO model t1score: 0.407515495166
+OVO model t1 score: 0.407515495166
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 1e-05
+OVO model t1score: 0.412987924291
+OVO model t1 score: 0.412987924291
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 1e-05
+OVO model t1score: 0.430706304643
+OVO model t1 score: 0.430706304643
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 1e-05
+OVO model t1score: 0.435136481573
+OVO model t1 score: 0.435136481573
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 1e-05
+OVO model t1score: 0.432735112814
+OVO model t1 score: 0.432735112814
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 4 coef= 1e-05
+OVO model t1score: 0.396963777388
+OVO model t1 score: 0.396963777388
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.0
+OVO model t1score: 0.433443818108
+OVO model t1 score: 0.433443818108
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.0
+OVO model t1score: 0.432071045835
+OVO model t1 score: 0.432071045835
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.0
+OVO model t1score: 0.432244903362
+OVO model t1 score: 0.432244903362
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.0
+OVO model t1score: 0.448395703397
+OVO model t1 score: 0.448395703397
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.0
+OVO model t1score: 0.452279082778
+OVO model t1 score: 0.452279082778
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.0
+OVO model t1score: 0.452279082778
+OVO model t1 score: 0.452279082778
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.0
+OVO model t1score: 0.45389780974
+OVO model t1 score: 0.45389780974
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.0
+OVO model t1score: 0.496568943887
+OVO model t1 score: 0.496568943887
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 1.0
+OVO model t1score: 0.433443818108
+OVO model t1 score: 0.433443818108
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 1.0
+OVO model t1score: 0.428823847914
+OVO model t1 score: 0.428823847914
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 1.0
+OVO model t1score: 0.433380750395
+OVO model t1 score: 0.433380750395
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 1.0
+OVO model t1score: 0.452127066311
+OVO model t1 score: 0.452127066311
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 1.0
+OVO model t1score: 0.454621807273
+OVO model t1 score: 0.454621807273
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 1.0
+OVO model t1score: 0.455143324245
+OVO model t1 score: 0.455143324245
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 1.0
+OVO model t1score: 0.457860842326
+OVO model t1 score: 0.457860842326
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 1.0
+OVO model t1score: 0.500619752421
+OVO model t1 score: 0.500619752421
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 10.0
+OVO model t1score: 0.433443818108
+OVO model t1 score: 0.433443818108
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 10.0
+OVO model t1score: 0.428823847914
+OVO model t1 score: 0.428823847914
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 10.0
+OVO model t1score: 0.436634866269
+OVO model t1 score: 0.436634866269
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 10.0
+OVO model t1score: 0.448395703397
+OVO model t1 score: 0.448395703397
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 10.0
+OVO model t1score: 0.453614158816
+OVO model t1 score: 0.453614158816
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 10.0
+OVO model t1score: 0.453438111009
+OVO model t1 score: 0.453438111009
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 10.0
+OVO model t1score: 0.462557985777
+OVO model t1 score: 0.462557985777
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 10.0
+OVO model t1score: 0.504673360378
+OVO model t1 score: 0.504673360378
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.1
+OVO model t1score: 0.433443818108
+OVO model t1 score: 0.433443818108
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.1
+OVO model t1score: 0.432071045835
+OVO model t1 score: 0.432071045835
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.1
+OVO model t1score: 0.433380750395
+OVO model t1 score: 0.433380750395
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.1
+OVO model t1score: 0.448395703397
+OVO model t1 score: 0.448395703397
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.1
+OVO model t1score: 0.453438111009
+OVO model t1 score: 0.453438111009
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.1
+OVO model t1score: 0.453954562385
+OVO model t1 score: 0.453954562385
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.1
+OVO model t1score: 0.458606870445
+OVO model t1 score: 0.458606870445
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.1
+OVO model t1score: 0.504673360378
+OVO model t1 score: 0.504673360378
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.01
+OVO model t1score: 0.433443818108
+OVO model t1 score: 0.433443818108
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.01
+OVO model t1score: 0.428823847914
+OVO model t1 score: 0.428823847914
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.01
+OVO model t1score: 0.436634866269
+OVO model t1 score: 0.436634866269
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.01
+OVO model t1score: 0.448395703397
+OVO model t1 score: 0.448395703397
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.01
+OVO model t1score: 0.454621807273
+OVO model t1 score: 0.454621807273
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.01
+OVO model t1score: 0.453695998151
+OVO model t1 score: 0.453695998151
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.01
+OVO model t1score: 0.454057290989
+OVO model t1 score: 0.454057290989
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.01
+OVO model t1score: 0.497707325438
+OVO model t1 score: 0.497707325438
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.001
+OVO model t1score: 0.433443818108
+OVO model t1 score: 0.433443818108
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.001
+OVO model t1score: 0.428823847914
+OVO model t1 score: 0.428823847914
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.001
+OVO model t1score: 0.436634866269
+OVO model t1 score: 0.436634866269
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.001
+OVO model t1score: 0.448395703397
+OVO model t1 score: 0.448395703397
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.001
+OVO model t1score: 0.453438111009
+OVO model t1 score: 0.453438111009
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.001
+OVO model t1score: 0.453438111009
+OVO model t1 score: 0.453438111009
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.001
+OVO model t1score: 0.46133451198
+OVO model t1 score: 0.46133451198
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.001
+OVO model t1score: 0.501624443013
+OVO model t1 score: 0.501624443013
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.0001
+OVO model t1score: 0.433443818108
+OVO model t1 score: 0.433443818108
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.0001
+OVO model t1score: 0.428823847914
+OVO model t1 score: 0.428823847914
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.0001
+OVO model t1score: 0.435487170396
+OVO model t1 score: 0.435487170396
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.0001
+OVO model t1score: 0.445493351813
+OVO model t1 score: 0.445493351813
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.0001
+OVO model t1score: 0.453438111009
+OVO model t1 score: 0.453438111009
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.0001
+OVO model t1score: 0.452279082778
+OVO model t1 score: 0.452279082778
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.0001
+OVO model t1score: 0.452561668044
+OVO model t1 score: 0.452561668044
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 0.0001
+OVO model t1score: 0.497876755815
+OVO model t1 score: 0.497876755815
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 1e-05
+OVO model t1score: 0.433443818108
+OVO model t1 score: 0.433443818108
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 1e-05
+OVO model t1score: 0.427683267353
+OVO model t1 score: 0.427683267353
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 1e-05
+OVO model t1score: 0.436634866269
+OVO model t1 score: 0.436634866269
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 1e-05
+OVO model t1score: 0.448395703397
+OVO model t1 score: 0.448395703397
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 1e-05
+OVO model t1score: 0.453614158816
+OVO model t1 score: 0.453614158816
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 1e-05
+OVO model t1score: 0.453954562385
+OVO model t1 score: 0.453954562385
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 1e-05
+OVO model t1score: 0.465107203981
+OVO model t1 score: 0.465107203981
+
+Kernel= poly C = 10.0 and gamma= 1.0 degree= 5 coef= 1e-05
+OVO model t1score: 0.496568943887
+OVO model t1 score: 0.496568943887
+
